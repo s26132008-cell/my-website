@@ -251,3 +251,19 @@ footer {
   width: 300px;
   height: auto;
   }
+
+  .recruit_img{
+    width: 300px;
+    height: auto;
+    border-radius: 30px;
+  }
+  .recruit_phrase{
+ margin: 80px auto 80px auto;
+  padding: 32px;
+  width: 320px;
+  line-height: 32px;
+  font-size: 18px;
+  background-color: #fff0f5;
+  border: dashed 2px #773d50;
+  color: #6f4c5b;
+  }
